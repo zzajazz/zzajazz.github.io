@@ -6,3 +6,6 @@ body {
 	text-align: center;
 	color: white;
 }
+.header:hover {
+	color: red;
+}
